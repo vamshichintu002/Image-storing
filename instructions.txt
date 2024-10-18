@@ -1,0 +1,36 @@
+
+Project Requirements: Image & Name Storage with Supabase Backend
+create components for each new functionalities in components folder with tsx files and linked to the page.tsx.
+
+Project Goal:
+
+Develop a website that utilizes Supabase as the backend to store and retrieve image and name data.
+
+Functionality:
+
+Add New:
+
+Allow users to upload images and enter corresponding names.
+Saved:
+
+Display a gallery of saved images along with their associated names. The system should clearly link each image to its respective name.
+Technical Requirements:
+
+Backend:
+
+Utilize Supabase for data storage and retrieval.
+Define database schemas for images and names (e.g., image file URLs, image descriptions, associated names).
+Frontend:
+
+Implement a user interface for both "Add New" and "Saved" functionalities.
+Allow users to browse, upload, and view images.
+Display images and names clearly and related to each other. Consider using a grid or list layout for the gallery.
+Additional Considerations:
+
+
+
+Design a user-friendly and visually appealing interface for the website.
+
+
+Note: All the api is are in .env.local file.
+
